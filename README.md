@@ -6,6 +6,6 @@
 
 ## 👋 mais um _Cleveriano_ encarando novos desafios
 
-Estagiário de Desenvolvimento **Frontend** na [Clever Systems LTDA](https://cleversystems.com.br/)
+Desenvolvedor **Frontend** na [Clever Systems LTDA](https://cleversystems.com.br/)
 
 </div>
