@@ -12,7 +12,7 @@
 
 ### 👋 novos desafios a cada linha de código
   
-Desenvolvedor _Junior_ **Frontend** na [Clever Systems LTDA](https://cleversystems.com.br/)
+Desenvolvedor **Frontend** na [Clever Systems LTDA](https://cleversystems.com.br/)
   
 contato:
 
